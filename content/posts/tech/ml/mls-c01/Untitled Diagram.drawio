@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-08T15:53:45.067Z" agent="5.0 (X11)" etag="v1Ld7c2pBLFM7YHB1VP-" version="14.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-08T16:03:35.202Z" agent="5.0 (X11)" etag="jTUl50luy1OdM9SWXSpe" version="14.3.0" type="github" pages="4">
   <diagram id="3egdJl20xEzExwP_9GCn" name="KVS">
     <mxGraphModel dx="1422" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -120,6 +120,83 @@
         <mxCell id="E07bmeSrQ7LFwmQAp_uC-32" value="Amazon Kinesis Data Analytics" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.kinesis_data_analytics;" vertex="1" parent="ubfk08OJs4WmA_bFlGEE-1">
           <mxGeometry x="610" y="230" width="80" height="120" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QE7basiI9hIk8pummKc8" name="KDF">
+    <mxGraphModel dx="1422" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="szwfdQcTvEP1srSUGv-F-0" />
+        <mxCell id="szwfdQcTvEP1srSUGv-F-1" parent="szwfdQcTvEP1srSUGv-F-0" />
+        <mxCell id="_ucVeFDgrDlcd-M4NOFn-0" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;DELIVERY DESTINATION (CONSUMERS)&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="szwfdQcTvEP1srSUGv-F-1">
+          <mxGeometry x="490" y="30" width="260" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="_ucVeFDgrDlcd-M4NOFn-1" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;PRODUCERS&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="szwfdQcTvEP1srSUGv-F-1">
+          <mxGeometry x="90" y="30" width="230" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="_ucVeFDgrDlcd-M4NOFn-2" value="&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;PROCESSING&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="szwfdQcTvEP1srSUGv-F-1">
+          <mxGeometry x="340" y="265" width="120" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="_ucVeFDgrDlcd-M4NOFn-5" value="&lt;div&gt;&lt;b&gt;Kinesis Agent &lt;/b&gt;(Filesystem monitoring based app)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="szwfdQcTvEP1srSUGv-F-1">
+          <mxGeometry x="145" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ucVeFDgrDlcd-M4NOFn-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="_ucVeFDgrDlcd-M4NOFn-1" parent="szwfdQcTvEP1srSUGv-F-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ucVeFDgrDlcd-M4NOFn-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="_ucVeFDgrDlcd-M4NOFn-0" parent="szwfdQcTvEP1srSUGv-F-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="135" as="sourcePoint" />
+            <mxPoint x="500" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ucVeFDgrDlcd-M4NOFn-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="_ucVeFDgrDlcd-M4NOFn-18" parent="szwfdQcTvEP1srSUGv-F-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="305" as="sourcePoint" />
+            <mxPoint x="400" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="https://aws.amazon.com/kinesis/data-firehose/faqs" id="_ucVeFDgrDlcd-M4NOFn-16">
+          <mxCell style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="szwfdQcTvEP1srSUGv-F-1">
+            <mxGeometry x="285" y="470" width="230" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_ucVeFDgrDlcd-M4NOFn-17" value="Amazon Kinesis Data Streams" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.kinesis_data_streams;" vertex="1" parent="szwfdQcTvEP1srSUGv-F-1">
+          <mxGeometry x="165" y="145" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_ucVeFDgrDlcd-M4NOFn-18" value="AWS Lambda" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" vertex="1" parent="szwfdQcTvEP1srSUGv-F-1">
+          <mxGeometry x="360" y="310" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_ucVeFDgrDlcd-M4NOFn-19" value="&lt;div&gt;&lt;b&gt;Compute with SDK calls to firehose (EC2, Lambda etc)&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="szwfdQcTvEP1srSUGv-F-1">
+          <mxGeometry x="145" y="280" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_ucVeFDgrDlcd-M4NOFn-21" value="Amazon Kinesis Data Firehose" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.kinesis_data_firehose;" vertex="1" parent="szwfdQcTvEP1srSUGv-F-1">
+          <mxGeometry x="360" y="70" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_ucVeFDgrDlcd-M4NOFn-22" value="Amazon S3" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="szwfdQcTvEP1srSUGv-F-1">
+          <mxGeometry x="530" y="60" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_ucVeFDgrDlcd-M4NOFn-23" value="&lt;div&gt;&lt;b&gt;Any HTTP &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;API&lt;/b&gt;&lt;/div&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.http_protocol;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="szwfdQcTvEP1srSUGv-F-1">
+          <mxGeometry x="658.5" y="60" width="63" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="_ucVeFDgrDlcd-M4NOFn-26" value="&lt;b&gt;SPLUNK&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=center;" vertex="1" parent="szwfdQcTvEP1srSUGv-F-1">
+          <mxGeometry x="525" y="200" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ucVeFDgrDlcd-M4NOFn-27" value="Amazon Redshift" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.redshift;" vertex="1" parent="szwfdQcTvEP1srSUGv-F-1">
+          <mxGeometry x="650" y="190" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_ucVeFDgrDlcd-M4NOFn-28" value="Amazon Elasticsearch Service" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.elasticsearch_service;" vertex="1" parent="szwfdQcTvEP1srSUGv-F-1">
+          <mxGeometry x="530" y="285" width="80" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2EVDT8igMiKEl8rF2_VG" name="KDA">
+    <mxGraphModel dx="1422" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="nTIETpq5PiidVAEhVJ_t-0" />
+        <mxCell id="nTIETpq5PiidVAEhVJ_t-1" parent="nTIETpq5PiidVAEhVJ_t-0" />
       </root>
     </mxGraphModel>
   </diagram>
