@@ -40,3 +40,6 @@ cover:
 
 ## Kinesis Data Analytics - KDA
 ![Kinesis Data Analytics](https://github.com/apexcoder7/blog-project/raw/main/content/posts/tech/ml/mls-c01/assets/images/kinesis/KDA.png#center)
+
+## Tabular Comparision
+![Tabular](https://github.com/apexcoder7/blog-project/raw/main/content/posts/tech/ml/mls-c01/assets/images/kinesis/kinesis-streams-table.png#center)
