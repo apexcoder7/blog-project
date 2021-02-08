@@ -1,11 +1,8 @@
 ---
-title: "New Post"
+title: "Amazon Sagemaker Built-in Algorithms Compared"
 date: 2020-09-15T11:30:03+00:00
-# weight: 1
-# aliases: ["/first"]
 tags: [""]
 author: "sudo-code"
-# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
@@ -17,19 +14,18 @@ disableShare: false
 disableHLJS: false
 searchHidden: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    image: "https://github.com/apexcoder7/blog-project/raw/main/content/posts/tech/ml/mls-c01/aws-cert-back.png" # image path/url
+    alt: "AWS Machine Learning Specialty" # alt text
+    caption: "AWS Machine Learning Specialty" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-
 ---
 
-# Amazon Sagemaker Built-in Algorithms Compared
+# Ready reference for MLS-C01 - Sagemaker Algorithms Compared
 * Study following table to compare various built-in algorithms in Sagemaker
 * You can use this as a ready reckoner for MLS-C01 AWS Certified Machine Learning Specialty Exam
 * Pay attention: Scroll the table horizontally for more columns
-* Download the table as PDF [here](https://github.com/apexcoder7/blog-project/raw/main/content/posts/tech/ml/AWS-SM-Built-in-Algos-Compared.pdf)
+* Download the table as PDF [here](https://github.com/apexcoder7/blog-project/raw/main/content/posts/tech/ml/mls-c01/AWS-SM-Built-in-Algos-Compared.pdf)
 
 {{< bootstrap-table table_class="table table-dark table-striped table-bordered" thead_class="thead-dark" >}}
 | Algorithm                          | Algo. Type             | Input Format                                                                                                                                                                                                                                                                         | INT/FLOAT | Processor Type           | Instance                             | Multiprocessor<br>in Single Machine | Multi Machine                        | Use Cases                                                                                                                                                                                                                                                                                           | Comments                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | HP                                                                                                                                                                                                      |
