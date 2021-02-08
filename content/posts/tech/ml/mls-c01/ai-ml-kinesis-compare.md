@@ -14,13 +14,13 @@ disableShare: false
 disableHLJS: false
 searchHidden: true
 cover:
-    image: "https://github.com/apexcoder7/blog-project/raw/main/content/posts/tech/ml/mls-c01/assets/images/general/aws-cert-back.png" # image path/url
+    image: "mls-c01/assets/images/general/aws-cert-back.png" # image path/url
     alt: "AWS Machine Learning Specialty" # alt text
     caption: "AWS Machine Learning Specialty" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 ---
-![Cover](https://github.com/apexcoder7/blog-project/raw/main/content/posts/tech/ml/mls-c01/assets/images/general/aws-cert-back.png#center)
+![Cover](/mls-c01/assets/images/general/aws-cert-back.png#center)
 
 # Ready reference for MLS-C01 and SAP-C01: Amazon Kinesis Streams Compared
 * No need to study and find out inputs and outputs supported by Kinesis Streams by digging into AWS Documentation
@@ -30,16 +30,16 @@ cover:
     * Be cautious about tricky exam questions that state a wrong answer option involving kinesis streams
 
 ## Kinesis Video Streams - KVS
-![Kinesis Video Streams](https://github.com/apexcoder7/blog-project/raw/main/content/posts/tech/ml/mls-c01/assets/images/kinesis/KVS.png#center)
+![Kinesis Video Streams](/mls-c01/assets/images/kinesis/KVS.png#center)
 
 ## Kinesis Data Streams - KDS
-![Kinesis Data Streams](https://github.com/apexcoder7/blog-project/raw/main/content/posts/tech/ml/mls-c01/assets/images/kinesis/KDS.png#center)
+![Kinesis Data Streams](/mls-c01/assets/images/kinesis/KDS.png#center)
 
 ## Kinesis Data Firehose - KDF
-![Kinesis Data Firehose](https://github.com/apexcoder7/blog-project/raw/main/content/posts/tech/ml/mls-c01/assets/images/kinesis/KDF.png#center)
+![Kinesis Data Firehose](/mls-c01/assets/images/kinesis/KDF.png#center)
 
 ## Kinesis Data Analytics - KDA
-![Kinesis Data Analytics](https://github.com/apexcoder7/blog-project/raw/main/content/posts/tech/ml/mls-c01/assets/images/kinesis/KDA.png#center)
+![Kinesis Data Analytics](/mls-c01/assets/images/kinesis/KDA.png#center)
 
 ## Tabular Comparision
-![Tabular](https://github.com/apexcoder7/blog-project/raw/main/content/posts/tech/ml/mls-c01/assets/images/kinesis/kinesis-streams-table.png#center)
+![Tabular](/mls-c01/assets/images/kinesis/kinesis-streams-table.png#center)
