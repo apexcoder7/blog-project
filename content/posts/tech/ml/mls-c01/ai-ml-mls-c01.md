@@ -14,19 +14,19 @@ disableShare: false
 disableHLJS: false
 searchHidden: true
 cover:
-    image: "https://github.com/apexcoder7/blog-project/raw/main/content/posts/tech/ml/mls-c01/aws-cert-back.png" # image path/url
+    image: "https://github.com/apexcoder7/blog-project/raw/main/content/posts/tech/ml/mls-c01/assets/images/general/aws-cert-back.png" # image path/url
     alt: "AWS Machine Learning Specialty" # alt text
     caption: "AWS Machine Learning Specialty" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 ---
-![Cover](https://github.com/apexcoder7/blog-project/raw/main/content/posts/tech/ml/mls-c01/aws-cert-back.png#center)
+![Cover](https://github.com/apexcoder7/blog-project/raw/main/content/posts/tech/ml/mls-c01/assets/images/general/aws-cert-back.png#center)
 
 # Ready reference for MLS-C01: Sagemaker Algorithms Compared
 * Study following table to compare various built-in algorithms in Sagemaker
 * You can use this as a ready reckoner for MLS-C01 AWS Certified Machine Learning Specialty Exam
 * Pay attention: Scroll the table horizontally for more columns
-* Download the table as PDF [here](https://github.com/apexcoder7/blog-project/raw/main/content/posts/tech/ml/mls-c01/AWS-SM-Built-in-Algos-Compared.pdf)
+* Download the table as PDF [here](https://github.com/apexcoder7/blog-project/raw/main/content/posts/tech/ml/mls-c01/assets/data/AWS-SM-Built-in-Algos-Compared.pdf)
 
 {{< bootstrap-table table_class="table table-dark table-striped table-bordered" thead_class="thead-dark" >}}
 | Algorithm                          | Algo. Type             | Input Format                                                                                                                                                                                                                                                                         | INT/FLOAT | Processor Type           | Instance                             | Multiprocessor<br>in Single Machine | Multi Machine                        | Use Cases                                                                                                                                                                                                                                                                                           | Comments                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | HP                                                                                                                                                                                                      |
