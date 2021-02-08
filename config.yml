@@ -43,7 +43,7 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Technical Blogs for New Age Software Developers and Architects"
-    author: sudo-code admin
+    author: sudo-code
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto

@@ -1,14 +1,14 @@
 ---
 title: "Amazon Sagemaker Built-in Algorithms Compared"
 date: 2020-09-15T11:30:03+00:00
-tags: [""]
+tags: ["machine", "learning", "sagemaker", "aws", "mls-c01", "specialty", "exam", "algorithms", "compared"]
 author: "sudo-code"
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
 comments: false
-description: ""
+description: "Compare various built-in algorithms in Sagemaker"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -20,8 +20,9 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 ---
+![Cover](https://github.com/apexcoder7/blog-project/raw/main/content/posts/tech/ml/mls-c01/aws-cert-back.png#center)
 
-# Ready reference for MLS-C01 - Sagemaker Algorithms Compared
+# Ready reference for MLS-C01: Sagemaker Algorithms Compared
 * Study following table to compare various built-in algorithms in Sagemaker
 * You can use this as a ready reckoner for MLS-C01 AWS Certified Machine Learning Specialty Exam
 * Pay attention: Scroll the table horizontally for more columns
@@ -65,8 +66,9 @@ cover:
 {{< /bootstrap-table >}}
 
 # Algorithms that support distributed training
-* Mnemonic to remember: F-SKILBDR as in F-SkillBuilder (If you can come up with somethig better, please share in comments! )
+* Mnemonic to remember: **F-SKILBDR** as in SkillBuilder (If you can come up with somethig better, please share in comments! )
 
+{{< bootstrap-table table_class="table table-dark table-striped table-bordered" >}}
 | Distributed Training Support |
 | ------------------------ |
 | Factorization Machine    |
@@ -77,3 +79,4 @@ cover:
 | Blazing Text - Word2Vec  |
 | DeepAR                   |
 | RCF - Random Cut Forests |
+{{< /bootstrap-table >}}
